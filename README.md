@@ -35,7 +35,7 @@ The environment will be updated accordingly after all changes made by the SCTF m
 
 
 ## **VIDEO**
-A YouTube link has being provided on how to use "CycleMyLyfe" which they can access [here](https://youtu.be/nftdN8sL8v8).
+A YouTube video to showcase the key uses of our VR app can be accessed [here](https://youtu.be/nftdN8sL8v8).
 
 
 ## **FEEDBACK**
