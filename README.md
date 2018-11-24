@@ -39,7 +39,7 @@ A YouTube video to showcase the key uses of our VR app can be accessed [here](ht
 
 
 ## **FEEDBACK**
-We would love to hear your thoughts or feedback on how we can improve your experience! Please fill up this [form](https://goo.gl/forms/bFnaAKiA1IAR7uls2)!
+We would love to hear your thoughts or feedback on how we can improve your experience! Please fill up this [form](https://goo.gl/forms/bFnaAKiA1IAR7uls2).
 
 
 ## **FAQ**
